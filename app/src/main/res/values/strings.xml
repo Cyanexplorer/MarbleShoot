@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MarbleGame</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_histroy_score">HistroyScore</string>
+    <string-array name="rate">
+        <item>你弱弱der~</item>
+        <item>加油!再接再厲~</item>
+        <item>(・ω・)不錯喔~給你按個讚!</item>
+        <item>(WoW)~神射手~</item>
+        <item>乂你太星爆了乂快!還要更快~</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
