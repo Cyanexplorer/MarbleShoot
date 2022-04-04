@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MarbleShoot.iml" filepath="$PROJECT_DIR$/MarbleShoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MarbleShoot.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MarbleShoot.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpct_ae/MarbleShoot.jpct_ae.iml" filepath="$PROJECT_DIR$/.idea/modules/jpct_ae/MarbleShoot.jpct_ae.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mylibrary/MarbleShoot.mylibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/mylibrary/MarbleShoot.mylibrary.iml" />
+    </modules>
+  </component>
+</project>
