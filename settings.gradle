@@ -1,1 +1,1 @@
-include ':app', ':jpct_ae', ':mylibrary'
+include ':app', ':mylibrary'

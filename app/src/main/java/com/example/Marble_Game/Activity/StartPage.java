@@ -7,11 +7,10 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.example.Marble_Game.R;
 import com.example.Marble_Game.StartPageFragment;
-import com.threed.jpct.IPaintListener;
 
 import static com.example.Marble_Game.util.Constants.STRFRG;
 
-public class StartPage extends AppCompatActivity implements IPaintListener {
+public class StartPage extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,17 +24,6 @@ public class StartPage extends AppCompatActivity implements IPaintListener {
         }
         getSupportFragmentManager().beginTransaction().add(R.id.activity_start_page,fragment,STRFRG).commit();
 
-
-    }
-
-
-    @Override
-    public void startPainting() {
-
-    }
-
-    @Override
-    public void finishedPainting() {
 
     }
 }
